@@ -1,0 +1,13 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment directories
+env/
+venv/
+
+# Ignore Jupyter Notebook config
+.jupyter/
